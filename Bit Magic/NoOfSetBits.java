@@ -1,4 +1,4 @@
-
+//  0(log(n))
 public class NoOfSetBits {
     static int no_of_bits(int n){
         int a=1;
