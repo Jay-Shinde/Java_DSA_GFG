@@ -16,3 +16,7 @@ public class RopeCuts {
         System.out.println(maxCuts(45, 9, 9, 9));
     }
 }
+
+//Time Complexity : O(3^n)
+
+//Space Complexity : O(n), due to recursive call stack.
