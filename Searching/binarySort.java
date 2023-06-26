@@ -1,9 +1,4 @@
-import java.time.chrono.MinguoChronology;
-
-/**
- * binarySort
- */
-public class binarySort {
+class binarySort {
 static int searchInSorted(int a[], int n, int k)
     {
         
